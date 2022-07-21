@@ -1,0 +1,7 @@
+.product{
+    width: 70%;
+    margin: 0 auto;
+}
+.imgP:hover{
+  cursor: pointer;
+}
