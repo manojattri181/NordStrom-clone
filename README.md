@@ -6,3 +6,4 @@
 "/product" ==> product page
 
 # deployed link
+https://nordstrom-manoj.vercel.app/
