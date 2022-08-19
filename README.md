@@ -3,7 +3,7 @@
 # Project-Nordstrom-clone
 
 Nordstrom is a fashion E-commerce website with variety of fashion product like clothing , jackets, shoes, for different category like men, women and kid.
-<img src="https://1000logos.net/wp-content/uploads/2019/08/Nordstrom-logo-1.jpg">
+<img src="https://1000logos.net/wp-content/uploads/2019/08/Nordstrom-logo-1.jpg" width="500px">
 
 \*I was given a task to Clone the nordstrom.com Website.\*\*
 
@@ -49,7 +49,7 @@ Nordstrom is a fashion E-commerce website with variety of fashion product like c
 2.Sign-In Page
 
 <h4>Here user can Signin:- </h4>
-<img src="Nordstrom/src/Images/siginin.JPG" width="700"/>
+<img src="Nordstrom/src/Images/signin.JPG" width="700"/>
 3.Product Page
 
 <h4>Here user can search and filter the data as per their requirement and add to cart:- </h4>
