@@ -43,18 +43,18 @@ Nordstrom is a fashion E-commerce website with variety of fashion product like c
 1.Landing Page
 
 <h4>This is our landing page </h4>
-<img src="src/Images/home.JPG" width="700"/>
-<img src="src/Images/footer.JPG" width="700"/>
+<img src="Nordstrom/src/Images/home.JPG" width="700"/>
+<img src="Nordstrom/src/Images/footer.JPG" width="700"/>
 
 2.Sign-In Page
 
 <h4>Here user can Signin:- </h4>
-<img src="src/Images/siginin.JPG" width="700"/>
+<img src="Nordstrom/src/Images/siginin.JPG" width="700"/>
 3.Product Page
 
 <h4>Here user can search and filter the data as per their requirement and add to cart:- </h4>
-<img src="src/Images/Product.JPG" width="700"/>
+<img src="Nordstrom/src/Images/Product.JPG" width="700"/>
 
 ## Team Member
 
-- [@Manoj attri](https://github.com/manojattri181)
+- [@Manoj Attri](https://github.com/manojattri181)
