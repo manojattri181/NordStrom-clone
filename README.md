@@ -44,6 +44,9 @@ Nordstrom is a fashion E-commerce website with variety of fashion product like c
 
 <h4>This is our landing page </h4>
 <img src="Nordstrom/src/Images/home.JPG" width="700"/>
+
+1.1 Footer
+<h4>This is Footer section</h4>
 <img src="Nordstrom/src/Images/footer.JPG" width="700"/>
 
 2.Sign-In Page
